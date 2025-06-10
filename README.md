@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @joekbullard
-- 👀 I’m interested in spatial python and postgres (PostGIS)
-- 🌱 I’m currently learning more about web development, specifically django
-- 💞️ I’m looking to collaborate on anything and everything
+Hello :)
+I'm a junior software engineer at @cse-bristol
+
 - 🔎 Have a look at my [blog](https://joekbullard.xyz)
 
 <!---
